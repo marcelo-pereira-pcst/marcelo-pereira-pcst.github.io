@@ -1,7 +1,23 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dashboard - Cientistas e Divulgação Científica: Opiniões e Práticas"
+excerpt: "Dashboard interativo que apresenta os resultados de um *survey* com cientistas brasileiros sobre percepções e práticas de divulgação científica.<br/><img src='/images/dashboard-streamlit.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Este dashboard foi desenvolvido em **Streamlit** (Python) para facilitar a visualização e exploração dos dados coletados em minha pesquisa sobre a comunidade científica brasileira.
+
+## Descrição do Projeto
+A ferramenta permite filtrar e cruzar dados de percepção pública, frequência de atividades de divulgação e barreiras institucionais citadas pelos pesquisadores. O objetivo é transformar dados estatísticos complexos em uma interface amigável para gestores de políticas científicas e pesquisadores da área de Comunicação Pública da Ciência (CPCT).
+
+## Principais Funcionalidades
+* **Análise Comparativa:** Filtros por área do conhecimento e senioridade.
+* **Visualização de Dados:** Gráficos interativos gerados com as bibliotecas Plotly e Pandas.
+* **Acesso Aberto:** Interface conectada diretamente aos dados processados na dissertação.
+
+## Acesso ao Projeto
+Você pode explorar o dashboard online através do link abaixo:
+
+🔗 **[Acessar Dashboard no Streamlit Cloud](https://cientistas-divulgacao.streamlit.app/)**
+
+---
+*Este projeto fez parte da coleta de dados do meu mestrado em Sociologia na UFMG.*

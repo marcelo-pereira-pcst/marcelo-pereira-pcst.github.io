@@ -27,9 +27,19 @@ Experiência Profissional
 
 Habilidades & Competências
 ======
-* **Pesquisa Acadêmica:** Sociologia da Ciência, Divulgação Científica, Análise Comparada (Espaço Lusófono).
-* **Técnicas:** Web Scraping para Ciências Sociais, Análise de Dados, Python para automação.
-* **Idiomas:** Português (Nativo), Inglês (Avançado), Francês (Avançado), Espanhol (Intermediário).
+* **Domínios de Pesquisa:** 
+  * Sociologia da Ciência e Estudos Sociais das Ciências e das Tecnologias.
+  * Comunicação Pública da Ciência e percepção pública da C&T.
+  * Métodos Digitais e Sociologia Computacional.
+* **Competências Técnicas:** 
+  * **Análise de Dados** Ciência de Dados aplicada às Ciências Sociais, com domínio de linguagens Python e R.
+  * **Gestão de Dados** Modelagem e extração de dados com **SQL** e técnicas de _Web Scraping_.
+  * **Infraestrutura e Deploy** Administração de sistemas **Linux** (Debian/Ubuntu) e orquestração de containers com **Docker** para ambientes de pesquisa.
+* **Idiomas:** 
+  * Português (Nativo)
+  * Inglês (Avançado)
+  * Francês (Avançado)
+  * Espanhol (Intermediário)
 
 Publicações
 ======
