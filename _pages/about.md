@@ -1,20 +1,16 @@
 ---
 layout: archive
-title: "About Me"
+title: "Sobre Mim"
 permalink: /
 author_profile: true
 ---
 
-I am a PhD student at the Postgraduate Program in Sociology (PPGS/FAFICH) at the Federal University of Minas Gerais (UFMG), Brazil. My work is situated within the **Sociology of Knowledge and Science**, focusing on how scientific dissemination is perceived and practiced by the scientific community.
+Sou doutorando no Programa de Pós-Graduação em Sociologia (PPGS/FAFICH) da Universidade Federal de Minas Gerais (UFMG). Meu trabalho insere-se na **Sociologia do Conhecimento e da Ciência** e nos **Estudos Sociais de Ciência e Tecnologia**, com foco em como a divulgação científica é percebida e praticada pela comunidade científica.
 
-## Research Interests
-My research, supervised by Prof. Yurij Castelfranchi, explores:
-* **Public Communication of Science and Technology (PCST):** Perceptions of scientists and institutional policies.
-* **Sociology of Science:** The relationship between science, technology, and society.
-* **Lusophone Scientific Landscapes:** Comparative analysis of scientific dissemination in Portuguese-speaking countries.
+## Interesses de Pesquisa
+Minha pesquisa, orientada pelo Prof. Yurij Castelfranchi, explora:
+* **Comunicação Pública de Ciência e Tecnologia (CPCT):** Percepções de cientistas e políticas institucionais.
+* **Sociologia da Ciência:** A relação entre ciência, tecnologia e sociedade.
+* **Cenários Científicos Lusófonos:** Análise comparada da divulgação científica em países de língua portuguesa.
 
-## Professional Experience
-Since 2017, I have served as the **Executive Secretary** at the **Directorate of Scientific Dissemination (DDC)** at UFMG. My responsibilities include:
-* Coordinating institutional policies for scientific outreach.
-* Supporting the **Transversal Training in Scientific Dissemination** (Formação Transversal).
-* Organizing major institutional events, such as **UFMG Jovem**.
+[Read this page in English](/about-en/)

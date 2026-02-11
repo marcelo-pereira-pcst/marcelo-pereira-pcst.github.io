@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Doutorado em Sociologia (em andamento)**, Universidade Federal de Minas Gerais (UFMG), 2024 – Presente
+  * Orientador: Yurij Castelfranchi
+* **Mestrado em Sociologia**, Universidade Federal de Minas Gerais (UFMG), 2023
+  * Título: *CIÊNCIA, SOCIEDADE, DIVULGAÇÃO CIENTÍFICA: a visão dos cientistas*
+* **Master 1 em Estudos Latinoamericanos**, Université Sorbonne Nouvelle-Paris3, 2015
+* **Graduação em Secretariado Executivo Trilingue**, Universidade Federal de Viçosa, 2006
 
-Work experience
+Experiência Profissional
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Diretoria de Divulgação Científica (DDC) - UFMG**,
+2016 - Presente
+  * Cargo: Secretário Executivo
+  * Atuação na gestão de políticas de comunicação pública da ciência e tecnologia.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Habilidades & Competências
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Pesquisa Acadêmica:** Sociologia da Ciência, Divulgação Científica, Análise Comparada (Espaço Lusófono).
+* **Técnicas:** Web Scraping para Ciências Sociais, Análise de Dados, Python para automação.
+* **Idiomas:** Português (Nativo), Inglês (Avançado), Francês (Avançado), Espanhol (Intermediário).
 
-Publications
+Publicações
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Participação em Eventos e Palestras
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Grupos de Pesquisa e Laboratórios
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Observatório InCiTe - Inovação, Cidadania e Tecnociência
+* Instituto Nacional de Ciência e Tecnologia - Comunicação Pública da Ciência [INCT-CPCT](https://inct-cpct.fiocruz.br/)
