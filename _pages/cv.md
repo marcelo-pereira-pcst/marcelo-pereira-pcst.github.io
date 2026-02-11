@@ -57,3 +57,6 @@ Grupos de Pesquisa e Laboratórios
 ======
 * Observatório InCiTe - Inovação, Cidadania e Tecnociência
 * Instituto Nacional de Ciência e Tecnologia - Comunicação Pública da Ciência [INCT-CPCT](https://inct-cpct.fiocruz.br/)
+
+---
+🌐 **English Version:** [Access the English version of this CV here](/cv-en/).

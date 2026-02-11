@@ -13,4 +13,5 @@ My research, supervised by Prof. Yurij Castelfranchi, explores:
 * **Sociology of Science:** The relationship between science, technology, and society.
 * **Lusophone Scientific Landscapes:** Comparative analysis of scientific dissemination in Portuguese-speaking countries.
 
-[Leia esta página em Português](/)
+---
+📄 **Curriculum Vitae:** You can find a detailed version of my CV in English [by clicking here](/cv-en/).
