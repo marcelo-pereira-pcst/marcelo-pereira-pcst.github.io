@@ -26,13 +26,16 @@ Professional Experience
 
 Skills & Competencies
 ======
-* **Research Fields:** * Sociology of Science and Social Studies of Science and Technology (STS).
+* **Research Fields:** 
+  * Sociology of Science and Social Studies of Science and Technology (STS).
   * Public Communication of Science and public perception of S&T.
   * Digital Methods and Computational Sociology.
-* **Technical Skills:** * **Data Analysis:** Data Science applied to Social Sciences, proficient in Python and R.
+* **Technical Skills:** 
+  * **Data Analysis:** Data Science applied to Social Sciences, proficient in Python and R.
   * **Data Management:** Modeling and data extraction with **SQL** and _Web Scraping_ techniques.
   * **Infrastructure and Deployment:** **Linux** (Debian/Ubuntu) system administration and **Docker** container orchestration for research environments.
-* **Languages:** * Portuguese (Native)
+* **Languages:** 
+  * Portuguese (Native)
   * English (Advanced)
   * French (Advanced)
   * Spanish (Intermediate)

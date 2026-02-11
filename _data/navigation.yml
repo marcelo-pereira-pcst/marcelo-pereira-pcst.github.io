@@ -9,16 +9,16 @@
 
 main:
 
-  - title: "English"
+  - title: "About Me"
     url: /about-en/ 
 
   - title: "Publicações"
     url: /publications/
 
-  - title: "Congressos e Eventos"
+  - title: "Comunicações"
     url: /talks/
 
-  - title: "CV"
+  - title: "Curriculum"
     url: /cv/    
     
   - title: "Portfolio"
