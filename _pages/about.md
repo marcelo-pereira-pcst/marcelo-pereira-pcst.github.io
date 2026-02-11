@@ -9,7 +9,7 @@ Sou doutorando no Programa de Pós-Graduação em Sociologia (PPGS/FAFICH) da Un
 
 ## Interesses de Pesquisa
 Minha pesquisa, orientada pelo Prof. Yurij Castelfranchi, explora:
-* **Comunicação Pública de Ciência e Tecnologia (CPCT):** Percepções de cientistas e políticas institucionais.
+* **Divulgação Científica:** Percepções de cientistas e políticas institucionais.
 * **Sociologia da Ciência:** A relação entre ciência, tecnologia e sociedade.
 * **Cenários Científicos Lusófonos:** Análise comparada da divulgação científica em países de língua portuguesa.
 
