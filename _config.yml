@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+
 locale                   : "pt-BR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Mariana Jafet Cestari / Portfólio Acadêmico" # Update this with your name and a general description of your site, this is the default if not overridden by a page
@@ -24,7 +25,7 @@ favicon                  : "/images/favicon.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile_mariana.jpg"
+  avatar           : "profile_mariana.jpg"
   name             : "Mariana Jafet Cestari"
   pronouns         : "ela/dela"  
   bio              : "Doutora em Linguística (Unicamp) e Professora no Departamento de Linguagem e Tecnologia do CEFET-MG. Líder do Grupo de Pesquisa Lebé (Discurso, Gênero e Raça)."

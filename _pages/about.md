@@ -32,5 +32,5 @@ Atualmente, lidero o **Grupo de Pesquisa Lebé – Discurso, Gênero e Raça** (
 ### Contato
 Se você tem interesse em colaborar em projetos de pesquisa sobre discurso e interseccionalidade ou deseja saber mais sobre as atividades do Grupo Lebé, sinta-se à vontade para entrar em contato:
 
-* **E-mail:** [mariana.cestari@cefetmg.br](mailto:mariana.cestari@cefetmg.br)
+* **E-mail:** [marianajcestaricefet@gmail.com](mailto:marianajcestaricefet@gmail.com)
 * **Localização:** CEFET-MG, Campus I, Belo Horizonte/MG.
