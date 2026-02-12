@@ -24,7 +24,7 @@ favicon                  : "/images/favicon.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/mariana/profile.jpg"
+  avatar           : "/images/profile_mariana.jpg"
   name             : "Mariana Jafet Cestari"
   pronouns         : "ela/dela"  
   bio              : "Doutora em Linguística (Unicamp) e Professora no Departamento de Linguagem e Tecnologia do CEFET-MG. Líder do Grupo de Pesquisa Lebé (Discurso, Gênero e Raça)."

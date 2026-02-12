@@ -1,7 +1,7 @@
 ---
 title: "Do cordel ao folhetim"
 collection: publications
-category: maniscripts
+category: manuscripts
 permalink: /publication/2026-do-cordel-ao-folhetim
 excerpt: 'Análise discursiva sobre as transições e permanências entre a literatura de cordel e o formato folhetim.'
 date: 2026-01-01

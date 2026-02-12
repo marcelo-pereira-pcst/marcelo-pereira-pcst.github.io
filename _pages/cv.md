@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Para acessar o meu Currículo Lattes](http://lattes.cnpq.br/2374199330901081)
+
 Formação Acadêmica
 ======
 * **Doutorado em Linguística**, Universidade Estadual de Campinas (UNICAMP), 2015
