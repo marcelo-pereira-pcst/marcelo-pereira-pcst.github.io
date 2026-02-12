@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "pt-BR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Marcelo Pereira / Portfólio Acadêmico" # Update this with your name and a general description of your site, this is the default if not overridden by a page
+title                    : "Mariana Jafet Cestari / Portfólio Acadêmico" # Update this with your name and a general description of your site, this is the default if not overridden by a page
 title_separator          : "-"
-name                     : &name "Marcelo Pereira"
-description              : &description "Portfólio acadêmico de Marcelo Pereira"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://marcelo-pereira-pcst.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Mariana Jafet Cestari"
+description              : &description "Portfólio acadêmico de Mariana Jafet Cestari"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://nome-perfil-mariana.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "marcelo-pereira-pcst/marcelo-pereira-pcst.github.io"
+repository               : "mariana-jafet-cestari/mariana-jafet-cestari.github.io"
 favicon                  : "/images/favicon.png"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,26 +24,27 @@ favicon                  : "/images/favicon.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Marcelo Pereira"
-  pronouns         : # example: "she/her"  
-  bio              : "Doutorando em Sociologia | Pesquisador da Divulgação Científica"
+  avatar           : "/images/mariana/profile.jpg"
+  name             : "Mariana Jafet Cestari"
+  pronouns         : "ela/dela"  
+  bio              : "Doutora em Linguística (Unicamp) e Professora no Departamento de Linguagem e Tecnologia do CEFET-MG. Líder do Grupo de Pesquisa Lebé (Discurso, Gênero e Raça)."
   location         : "Belo Horizonte, Brasil"
-  employer         : "Universidade Federal de Minas Gerais"
+  employer         : "CEFET-MG"
   uri              : # URL
-  email            : "mapereira@ufmg.br" 
+  email            : "marianajcestaricefet@gmail.com" 
 
   # Academic websites
-  academia         : "https://ufmg.academia.edu/PereiraMarcelo"
+  lattes           : "http://lattes.cnpq.br/2374199330901081" # URL - Update with the correct link to your Lattes CV
+  academia         : "https://cefetmg.academia.edu/MarianaCestari"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=-xkHrGUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=CQn1lMcAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-4219-5147"
+  orcid            : "https://orcid.org/0000-0003-4561-173X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Marcelo-Pereira-44"
+  researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
 
@@ -52,13 +53,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "marcelo-pereira-pcst" 
+  github           : # Username 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "marcelop.bsky.social" 
+  bluesky          : # Username 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "marcelo-pereira-6a28b5107"
+  linkedin         : "mariana-jafet-cestari-532716140"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -156,9 +157,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : "G-CYBE7ZMBHK"
+    tracking_id          : "" # e.g. "UA-12345678-9"
 
 
 # Reading Files

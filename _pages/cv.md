@@ -9,36 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Educação
+ormação Acadêmica
 ======
-* **Doutorado em Sociologia (em andamento)**, Universidade Federal de Minas Gerais (UFMG), 2024 – Presente
-  * Orientador: Yurij Castelfranchi
-* **Mestrado em Sociologia**, Universidade Federal de Minas Gerais (UFMG), 2023
-  * Título: *CIÊNCIA, SOCIEDADE, DIVULGAÇÃO CIENTÍFICA: a visão dos cientistas*
-* **Master 1 em Estudos Latinoamericanos**, Université Sorbonne Nouvelle-Paris3, 2015
-* **Graduação em Secretariado Executivo Trilingue**, Universidade Federal de Viçosa, 2006
+* **Doutorado em Linguística**, Universidade Estadual de Campinas (UNICAMP), 2015
+  * Título: *Vozes-mulheres negras ou feministas e antirracistas graças às Yabás*
+  * Orientadora: Monica Graciela Zoppi-Fontana
+  * Estágio de doutorado (Sanduíche): Université Paris 13 (França), 2012–2013
+* **Mestrado em Linguística**, Universidade Estadual de Campinas (UNICAMP), 2011
+  * Título: *Escrituras de si: subjetividade e resistência no discurso de mulheres negras*
+* **Graduação em Letras e Linguística**, Universidade Estadual de Campinas (UNICAMP), 2005 – 2009
 
 Experiência Profissional
 ======
-* **Diretoria de Divulgação Científica (DDC) - UFMG**,
-2016 - Presente
-  * Cargo: Secretário Executivo
-  * Atuação na gestão de políticas de comunicação pública da ciência e tecnologia.
+* **Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**, 2016 – Presente
+  * Cargo: Professora de Ensino Básico, Técnico e Tecnológico
+  * Atuação: Departamento de Linguagem e Tecnologia (DELTEC) e Programa de Pós-Graduação em Estudos de Linguagens (POSLING)
 
-Habilidades & Competências
+Prêmios e Distinções
 ======
-* **Domínios de Pesquisa:** 
-  * Sociologia da Ciência e Estudos Sociais das Ciências e das Tecnologias.
-  * Comunicação Pública da Ciência e percepção pública da C&T.
-  * Métodos Digitais e Sociologia Computacional.
-* **Competências Técnicas:** 
-  * **Análise de Dados** Ciência de Dados aplicada às Ciências Sociais, com domínio de linguagens Python e R.
-  * **Gestão de Dados** Modelagem e extração de dados com **SQL** e técnicas de _Web Scraping_.
-  * **Infraestrutura e Deploy** Administração de sistemas **Linux** (Debian/Ubuntu) e orquestração de containers com **Docker** para ambientes de pesquisa.
-* **Idiomas:** 
-  * Português (Nativo)
-  * Inglês (Avançado)
-  * Francês (Avançado)
+* **Prêmio de Melhor Tese de Doutorado**, Associação Latino-americana de Estudos do Discurso (ALED), 2017.
+
+Habilidades & Domínios de Pesquisa
+======
+* **Análise do Discurso:** Teoria e análise de linha francesa, materialidades discursivas.
+* **Estudos Interseccionais:** Relações raciais, gênero, feminismos e subjetividade.
+* **Linguagem e Tecnologia:** Produção textual em ambientes digitais e práticas de ensino.
+* **Idiomas:** * Português (Nativo)
+  * Francês (Avançado/Fluente)
+  * Inglês (Intermediário)
   * Espanhol (Intermediário)
 
 Publicações
@@ -55,8 +53,6 @@ Participação em Eventos e Palestras
 
 Grupos de Pesquisa e Laboratórios
 ======
-* Observatório InCiTe - Inovação, Cidadania e Tecnociência
-* Instituto Nacional de Ciência e Tecnologia - Comunicação Pública da Ciência [INCT-CPCT](https://inct-cpct.fiocruz.br/)
-
----
-🌐 **English Version:** [Access the English version of this CV here](/cv-en/).
+* **Líder:** Grupo de Pesquisa Lebé – Discurso, Gênero e Raça (CEFET-MG/CNPq)
+* **Integrante:** Mulheres em Discurso (Unicamp/CNPq)
+* **Integrante:** Discurso, Interseccionalidade e Subjetivações (UFMA/CNPq)
