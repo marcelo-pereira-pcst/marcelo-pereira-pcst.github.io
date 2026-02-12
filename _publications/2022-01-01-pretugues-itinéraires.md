@@ -1,6 +1,7 @@
 ---
 title: "Le « pretuguês », la langue maternelle et les discours fondateurs de la brésilianité"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-pretugues-itinéraires
 excerpt: 'Discussão internacional sobre o conceito de pretuguês de Lélia Gonzalez.'
 date: 2022-01-01

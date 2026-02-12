@@ -1,6 +1,7 @@
 ---
 title: "Sacerdotisas voduns e rainhas nas encruzilhadas das memórias discursivas: da Inquisição ao carnaval"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-sacerdotisas-voduns
 excerpt: 'Investigação sobre a memória discursiva de mulheres negras e a resistência religiosa.'
 date: 2025-01-01

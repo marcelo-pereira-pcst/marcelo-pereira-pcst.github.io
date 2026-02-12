@@ -1,6 +1,7 @@
 ---
 title: "A mulher da casa abandonada: entre o (in)visível e o (in)imaginado"
 collection: publications
+category: books
 permalink: /publication/2023-mulher-casa-abandonada
 excerpt: 'Análise discursiva sobre o fenômeno midiático e as implicações de classe e raça.'
 date: 2023-01-01

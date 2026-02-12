@@ -1,6 +1,7 @@
 ---
 title: "Um olhar discursivo para a educação antirracista: práxis de duas professoras de português"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-educacao-antirracista
 excerpt: 'Discussão sobre a prática docente e a aplicação de métodos da Análise do Discurso para uma educação antirracista.'
 date: 2025-01-01

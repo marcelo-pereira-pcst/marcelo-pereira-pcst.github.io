@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-ormação Acadêmica
+Formação Acadêmica
 ======
 * **Doutorado em Linguística**, Universidade Estadual de Campinas (UNICAMP), 2015
   * Título: *Vozes-mulheres negras ou feministas e antirracistas graças às Yabás*
