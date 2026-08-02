@@ -8,14 +8,6 @@ date: 2025-09-11
 location: "Puebla, México"
 ---
 
-<!--
-  CONFIRME A DATA: o congresso ocorreu de 10 a 12 de setembro de 2025 na UPAEP,
-  em Puebla. Usei 11/09 como aproximação; ajuste para o dia da sua sessão.
-
-  A apresentação foi em espanhol. Mantive o registro em português, por
-  coerência com o resto da coleção, e indiquei o idioma no texto.
--->
-
 Apresentação em espanhol no XIX Congresso da RedPOP, realizado na Universidad
 Popular Autónoma del Estado de Puebla, edição que marcou os 35 anos da rede.
 
