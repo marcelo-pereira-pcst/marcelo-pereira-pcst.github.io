@@ -9,16 +9,6 @@ tags:
   - divulgação científica
 ---
 
-<!--
-  VERSÃO 2 — com o coorientador e os objetivos de pesquisa; sem menção a
-  oficinas, conforme pedido.
-
-  O título afirma alguma coisa em vez de anunciar um fato administrativo —
-  é a regra que sugeri para a camada de "pensar em público". O terceiro
-  parágrafo é o único que ainda pede a sua mão: é onde entra o que você
-  realmente acha difícil.
--->
-
 Entre **setembro de 2026 e maio de 2027** realizo estágio doutoral na
 **Universidad de Oviedo**, sob coorientação do **Prof. Dr. Carmelo Polino**,
 no grupo CTS (Ciencia, Tecnología y Sociedad).
