@@ -1,0 +1,53 @@
+/* ==========================================================================
+   TEMA "MARCELO" - VERSÃO ESCURA
+   Contrastes verificados contra o fundo #16181a: todos acima de 7:1 (AAA).
+   O tema escuro padrão do AcademicPages usa fundo #474747 com link #0ea1c5,
+   que fica em 3.1:1 — abaixo do mínimo AA.
+   ========================================================================== */
+
+$primary-color : #7fd4e8;
+$accent-color  : #f0b26b;
+
+$gray          : #8b949e;
+$dark-gray     : mix(#000, $gray, 40%);
+$darker-gray   : mix(#000, $gray, 60%);
+$light-gray    : mix(#fff, $gray, 50%);
+
+$background         : #16181a;
+$background-light   : #1f2225;
+$background-lighter : #282c30;
+
+$danger-color  : #ff938c;
+$info-color    : $primary-color;
+$notice-color  : $gray;
+$success-color : #7ee08a;
+$warning-color : $accent-color;
+
+$border-radius            : 3px;
+$box-shadow               : 0 1px 2px rgba(0, 0, 0, 0.4);
+$global-transition        : all 0.2s ease-in-out;
+$masthead-height          : 68px;
+$navicon-width            : 26px;
+$navicon-height           : 3px;
+$sidebar-link-max-width   : 250px;
+$sidebar-screen-min-width : 1024px;
+
+html[data-theme="dark"] {
+    --global-base-color                 : #{$primary-color};
+    --global-accent-color               : #{$accent-color};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$background-light};
+    --global-border-color               : #3a3f45;
+    --global-dark-border-color          : #4a5058;
+    --global-code-background-color      : #{$background-lighter};
+    --global-code-text-color            : #e8e6e3;
+    --global-fig-caption-color          : #a5adb5;   //  7.8:1
+    --global-link-color                 : #7fd4e8;   // 10.6:1
+    --global-link-color-hover           : #a9e4f2;   // 12.8:1
+    --global-link-color-visited         : #c4a7dd;   //  8.4:1
+    --global-masthead-link-color        : #e8e6e3;
+    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-text-color                 : #e8e6e3;   // 14.3:1
+    --global-text-color-light           : #a5adb5;   //  7.8:1
+    --global-thead-color                : #{$background-lighter};
+}

@@ -3,16 +3,22 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
+#
+# ===========================================================================
+#  ALTERADO EM AGOSTO/2026 — procure por  [ALTERADO]  para ver o que mudou.
+#  Se você editou este arquivo depois de 02/08/2026, NÃO use este aqui:
+#  aplique à mão as sete mudanças listadas no PASSO-A-PASSO.md.
+# ===========================================================================
 
 # Basic Site Settings
 locale                   : "pt-BR"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Marcelo Pereira / Portfólio Acadêmico" # Update this with your name and a general description of your site, this is the default if not overridden by a page
+site_theme               : "marcelo" # [ALTERADO 1] era "default". Requer _sass/theme/_marcelo_light.scss e _marcelo_dark.scss
+title                    : "Marcelo Pereira" # [ALTERADO 2] era "Marcelo Pereira / Portfólio Acadêmico"
 title_separator          : "-"
 name                     : &name "Marcelo Pereira"
-description              : &description "Portfólio acadêmico de Marcelo Pereira"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Pesquiso como cientistas brasileiros percebem e praticam a divulgação científica. Doutorando em Sociologia na UFMG, Observatório InCiTe e INCT-CPCT." # [ALTERADO 3] era "Portfólio acadêmico de Marcelo Pereira"
 url                      : https://marcelo-pereira-pcst.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,12 +32,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Marcelo Pereira"
-  pronouns         : # example: "she/her"  
-  bio              : "Doutorando em Sociologia | Pesquisador da Divulgação Científica"
-  location         : "Belo Horizonte, Brasil"
+  pronouns         : # example: "she/her"
+  bio              : "Sociologia da ciência · Como cientistas percebem e praticam a divulgação científica" # [ALTERADO 4] era "Doutorando em Sociologia | Pesquisador da Divulgação Científica"
+  location         : "Belo Horizonte, Brasil" # a partir de setembro/2026, considere: "Oviedo, Espanha (2026–27) · Belo Horizonte"
   employer         : "Universidade Federal de Minas Gerais"
   uri              : # URL
-  email            : "mapereira@ufmg.br" 
+  email            : "mapereira@ufmg.br"
 
   # Academic websites
   academia         : "https://ufmg.academia.edu/PereiraMarcelo"
@@ -46,26 +52,30 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Marcelo-Pereira-44"
   scopus           : # URL
   zotero           : # URL
+  # [SUGERIDO] Lattes: descomente e preencha. Só aparece na barra lateral
+  # depois de acrescentar o bloco correspondente em _includes/author-profile.html
+  # (instruções no config-patch.md da primeira entrega).
+  lattes         : "http://lattes.cnpq.br/0526007505238764"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "marcelo-pereira-pcst" 
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "marcelo-pereira-pcst"
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
-  bluesky          : "marcelop.bsky.social" 
+  bluesky          : "marcelop.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
+  keybase          : # Username
   lastfm           : # Username
   linkedin         : "marcelo-pereira-6a28b5107"
   mastodon         : # URL
@@ -88,7 +98,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -144,8 +154,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 :  "/images/og-default.png"
+og_description           :  "Social media default site image description"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -197,7 +207,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md" 
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
@@ -223,7 +233,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /oficinas/:path/   # [ALTERADO 6] era /:collection/:path/ — passa a servir a página /oficinas/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -302,7 +312,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # [ALTERADO 7] era Etc/UTC — evita post datado do dia seguinte
 
 
 # Plugins

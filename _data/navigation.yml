@@ -1,16 +1,24 @@
-# The following is the order of the links in the header of the website.
+# Ordem dos links no cabeçalho do site.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# Alterações em relação ao arquivo original:
+#  - Rótulos todos em português (antes: "About Me", "Curriculum", "Portfolio"
+#    misturados com "Publicações", "Comunicações", "Novidades").
+#  - "About Me" apontava para /about-en/ — o item "sobre mim" levava para a
+#    versão em INGLÊS, enquanto a home já é o "sobre mim" em português.
+#    Agora o inglês é um item explícito de idioma, no fim do menu.
+#  - "Pesquisa": página nova, com a tese em andamento.
+#  - "Oficinas": página nova, para oficinas e minicursos.
+#  - "Portfolio" -> "Projetos": em português, "portfólio" soa a design;
+#    "Projetos" descreve melhor um dashboard de dados de survey.
 #
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# São oito itens — o limite do que cabe numa linha em telas médias. Se quiser
+# enxugar, o primeiro candidato a sair é "Novidades" (movendo os últimos posts
+# para a home) e o segundo é "Currículo" (linkado a partir de /pesquisa/).
 
 main:
 
-  - title: "About Me"
-    url: /about-en/ 
+  - title: "Pesquisa"
+    url: /pesquisa/
 
   - title: "Publicações"
     url: /publications/
@@ -18,19 +26,17 @@ main:
   - title: "Comunicações"
     url: /talks/
 
-  - title: "Curriculum"
-    url: /cv/    
-    
-  - title: "Portfolio"
+  - title: "Oficinas"
+    url: /oficinas/
+
+  - title: "Projetos"
     url: /portfolio/
-        
+
+  - title: "Currículo"
+    url: /cv/
+
   - title: "Novidades"
     url: /year-archive/
-    
 
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "EN"
+    url: /about-en/

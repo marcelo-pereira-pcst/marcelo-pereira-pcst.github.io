@@ -1,0 +1,22 @@
+{%- comment -%}
+  Seletor de idioma das páginas de apresentação.
+  Use com  {% include idiomas.html %}  logo abaixo do front matter em
+  _pages/about.md, about-en.md, about-es.md e about-fr.md.
+
+  O idioma da página atual aparece em negrito e sem link.
+  Para acrescentar um idioma, basta acrescentar um par "url,rótulo" à lista.
+{%- endcomment -%}
+
+{%- assign idiomas = "/,Português|/about-en/,English|/about-es/,Español|/about-fr/,Français" | split: "|" -%}
+
+<p class="idiomas" style="font-size:.85em;letter-spacing:.04em;margin:0 0 2.2em;color:var(--global-text-color-light)">
+{%- for item in idiomas -%}
+  {%- assign par = item | split: "," -%}
+  {%- if page.url == par[0] -%}
+    <strong style="color:var(--global-text-color)">{{ par[1] }}</strong>
+  {%- else -%}
+    <a href="{{ par[0] | relative_url }}"{% if par[0] == "/" %} hreflang="pt-BR"{% elsif par[0] == "/about-en/" %} hreflang="en"{% elsif par[0] == "/about-es/" %} hreflang="es"{% else %} hreflang="fr"{% endif %}>{{ par[1] }}</a>
+  {%- endif -%}
+  {%- unless forloop.last %} <span aria-hidden="true">·</span> {% endunless -%}
+{%- endfor -%}
+</p>

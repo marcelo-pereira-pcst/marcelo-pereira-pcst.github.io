@@ -1,0 +1,82 @@
+/* ==========================================================================
+   TEMA "MARCELO" - VERSÃO CLARA
+   Substitui o tema "default" do AcademicPages.
+   Ative com  site_theme: "marcelo"  no _config.yml
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   TIPOGRAFIA
+   Redefinida aqui porque este arquivo é importado DEPOIS de _themes.scss
+   e ANTES de layout/base.scss (ver assets/css/main.scss).
+   -------------------------------------------------------------------------- */
+$serif        : "Source Serif 4", "Source Serif Pro", Georgia, Cambria, "Times New Roman", serif;
+$sans-serif   : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                "Helvetica Neue", Arial, sans-serif;
+
+/* _themes.scss define $sans-serif-narrow a partir de $sans-serif ANTES desta
+   linha, então é preciso redefini-lo aqui também. */
+$sans-serif-narrow   : $sans-serif;
+
+$global-font-family  : $sans-serif;   // corpo de texto e interface
+$header-font-family  : $serif;        // títulos: dá caráter acadêmico
+$caption-font-family : $sans-serif;
+
+/* Escala tipográfica levemente mais contida que a padrão:
+   o H1 do template (2.441em) é grande demais para títulos longos
+   como "CIÊNCIA, SOCIEDADE, DIVULGAÇÃO CIENTÍFICA..." */
+$type-size-1 : 2.1em;
+$type-size-2 : 1.7em;
+$type-size-3 : 1.35em;
+$type-size-4 : 1.15em;
+
+/* --------------------------------------------------------------------------
+   COR
+   Todos os pares texto/fundo abaixo foram verificados contra o branco:
+   nenhum fica abaixo de 4.5:1 (WCAG 2.1 AA).
+   -------------------------------------------------------------------------- */
+$primary-color : #0f4c5c;  //  9.5:1  petróleo profundo (identidade)
+$accent-color  : #a45a12;  //  5.2:1  âmbar queimado (destaques pontuais)
+
+$gray          : #6b7280;
+$dark-gray     : mix(#000, $gray, 40%);
+$darker-gray   : mix(#000, $gray, 60%);
+$light-gray    : mix(#fff, $gray, 50%);
+$lighter-gray  : mix(#fff, $gray, 88%);
+
+$danger-color  : #b42318;
+$info-color    : $primary-color;
+$notice-color  : $gray;
+$success-color : #2e7d32;
+$warning-color : $accent-color;
+
+/* --------------------------------------------------------------------------
+   AJUSTES ESTRUTURAIS
+   -------------------------------------------------------------------------- */
+$border-radius            : 3px;   // menos "bootstrap 2012"
+$box-shadow               : 0 1px 2px rgba(0, 0, 0, 0.06);
+$global-transition        : all 0.2s ease-in-out;
+$masthead-height          : 68px;
+$navicon-width            : 26px;
+$navicon-height           : 3px;
+$sidebar-link-max-width   : 250px;
+$sidebar-screen-min-width : 1024px;
+
+:root {
+    --global-base-color                 : #{$primary-color};
+    --global-accent-color               : #{$accent-color};
+    --global-bg-color                   : #fdfdfc;   // branco levemente quente
+    --global-footer-bg-color            : #f4f5f4;
+    --global-border-color               : #{$lighter-gray};
+    --global-dark-border-color          : #d6d9dc;
+    --global-code-background-color      : #f6f7f8;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : #5a6169;   // 6.3:1
+    --global-link-color                 : #14657a;   // 6.6:1  (era 2.6:1)
+    --global-link-color-hover           : #0a3d4a;   // 11.8:1
+    --global-link-color-visited         : #6b4a7d;   // 7.2:1  (era 3.0:1)
+    --global-masthead-link-color        : #22252a;
+    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-text-color                 : #22252a;   // 15.4:1
+    --global-text-color-light           : #5a6169;   // 6.3:1  (era 1.8:1)
+    --global-thead-color                : #{$lighter-gray};
+}

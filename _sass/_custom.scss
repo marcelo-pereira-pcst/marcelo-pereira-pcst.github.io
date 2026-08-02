@@ -1,0 +1,91 @@
+/* ==========================================================================
+   REFINOS DE LEITURA E ACESSIBILIDADE
+   --------------------------------------------------------------------------
+   Este arquivo precisa ser importado POR ÚLTIMO, para vencer as regras do
+   template. Adicione "custom" no fim da lista de @import em
+   assets/css/main.scss (ver instruções em config-patch.md).
+   ========================================================================== */
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.page__content {
+    p, li {
+        line-height: 1.7;
+    }
+
+    /* Medida de linha confortável (~68 caracteres) para textos corridos.
+       Sem isto, em telas grandes a linha estica até ~900px, bem acima do
+       que o olho acompanha sem perder a linha seguinte. */
+    > p,
+    > ul,
+    > ol {
+        max-width: 68ch;
+    }
+
+    h2 {
+        margin-top: 2.2em;
+        padding-bottom: 0.3em;
+        border-bottom: 1px solid var(--global-border-color);
+    }
+
+    h3 {
+        margin-top: 1.6em;
+    }
+
+    /* Links do corpo do texto: sublinhado discreto além da cor.
+       A WCAG 1.4.1 proíbe distinguir um link do texto apenas pela cor. */
+    a:not(.btn) {
+        text-decoration: underline;
+        text-underline-offset: 0.18em;
+        text-decoration-thickness: 1px;
+        text-decoration-color: rgba(20, 101, 122, 0.4);
+
+        &:hover,
+        &:focus {
+            text-decoration-color: currentColor;
+        }
+    }
+}
+
+html[data-theme="dark"] .page__content a:not(.btn) {
+    text-decoration-color: rgba(127, 212, 232, 0.45);
+}
+
+/* Foco visível para quem navega por teclado (WCAG 2.4.7).
+   O template não define nenhum, e o padrão do navegador some em vários
+   elementos por causa do reset. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+    outline: 2px solid var(--global-link-color);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+/* Cartões do arquivo (publicações, comunicações, projetos):
+   hierarquia mais clara entre título e resumo. */
+.archive__item-title {
+    font-family: $header-font-family;
+    margin-bottom: 0.15em;
+    line-height: 1.3;
+}
+
+.archive__item-excerpt {
+    color: var(--global-text-color-light);
+}
+
+/* Respeita quem pediu menos animação no sistema operacional. */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
