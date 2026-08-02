@@ -36,8 +36,7 @@ Estágio de pesquisa no exterior
   * Estágio doutoral no grupo de pesquisa CTS (Ciencia, Tecnología y Sociedad)
   * Coorientação: Prof. Dr. Carmelo Polino
   * Validação do instrumento de coleta, desenho amostral e plano de análise do survey comparativo da tese
-  <!-- Se a bolsa PDSE/CAPES estiver confirmada, acrescente aqui uma linha:
-       * Bolsa PDSE/CAPES -->
+  * Bolsa PDSE/CAPES
 
 Experiência profissional
 ------
@@ -86,7 +85,7 @@ Grupos de pesquisa e laboratórios
 ------
 * Observatório InCiTe – Inovação, Cidadania e Tecnociência (UFMG)
 * Instituto Nacional de Ciência e Tecnologia em Comunicação Pública da Ciência e Tecnologia – [INCT-CPCT](https://inct-cpct.fiocruz.br/)
-* Grupo CTS – Ciencia, Tecnología y Sociedad, Universidad de Oviedo (2026–2027)
+* [Grupo CTS – Ciencia, Tecnología y Sociedad](https://sites.google.com/view/grupocts-uniovi/inicio?authuser=0), Universidad de Oviedo (2026–2027)
 
 <br>
 
