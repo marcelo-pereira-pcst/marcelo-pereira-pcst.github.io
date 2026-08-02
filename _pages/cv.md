@@ -24,7 +24,6 @@ Formação
 * **Doutorado em Sociologia (em andamento)**, Universidade Federal de Minas Gerais (UFMG), 2024 – presente
   * Tese: *Integração subordinada e divulgação científica: tipologias de engajamento no espaço lusófono*
   * Orientador: Yurij Castelfranchi
-  * Co-orientador: Carmelo Polino
 * **Mestrado em Sociologia**, Universidade Federal de Minas Gerais (UFMG), 2023
   * Dissertação: *Ciência, sociedade, divulgação científica: a visão dos cientistas*
 * **Master 1 em Estudos Latino-americanos**, Université Sorbonne Nouvelle – Paris 3, 2015
