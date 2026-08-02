@@ -9,17 +9,6 @@ tags:
   - sociologia da ciência
 ---
 
-<!--
-  Nota sobre o que este texto NÃO diz, conforme combinado: nenhum resultado
-  concreto — sem prevalências, sem critérios de ajuste, sem indicação de quais
-  áreas se agrupam com quais. O texto fica no plano da decisão metodológica e
-  da pergunta, que é o que se pode dizer em público antes da publicação.
-
-  Escrito em primeira pessoa do singular, sem menção à coautoria.
-
-  Ajuste a data se quiser outro dia de fevereiro.
--->
-
 Estou retomando os dados do meu mestrado — o survey com bolsistas de
 produtividade do CNPq — para aprofundar o trabalho com análise de classes
 latentes. O que começou como um exercício técnico virou uma questão conceitual,
