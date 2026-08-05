@@ -4,7 +4,7 @@ excerpt: "Dashboard interativo que apresenta os resultados de um *survey* com ci
 collection: portfolio
 ---
 
-Este dashboard foi desenvolvido em **Streamlit** (Python) para facilitar a visualização e exploração dos dados coletados em minha pesquisa sobre a comunidade científica brasileira.
+Este dashboard foi desenvolvido em **Quarto** como uma página estática para facilitar a visualização e exploração dos dados coletados em minha pesquisa sobre a comunidade científica brasileira.
 
 ## Descrição do Projeto
 A ferramenta permite filtrar e cruzar dados de percepção pública, frequência de atividades de divulgação e barreiras institucionais citadas pelos pesquisadores. O objetivo é transformar dados estatísticos complexos em uma interface amigável para gestores de políticas científicas e pesquisadores da área de Comunicação Pública da Ciência (CPCT).
@@ -17,7 +17,7 @@ A ferramenta permite filtrar e cruzar dados de percepção pública, frequência
 ## Acesso ao Projeto
 Você pode explorar o dashboard online através do link abaixo:
 
-🔗 **[Acessar Dashboard no Streamlit Cloud](https://cientistas-divulgacao.streamlit.app/)**
+🔗 **[Acessar Dashboard](https://marcelo-pereira-pcst.github.io/dashboardpq/)**
 
 ---
 *Este projeto fez parte da coleta de dados do meu mestrado em Sociologia na UFMG.*
